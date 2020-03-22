@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+    <string name="title_activity_grade_details">GradeDetails</string>
+    <string-array name="subjects">
+        <item>Data Structures</item>
+        <item>Information Technology Essentials</item>
+        <item>Mathematics - II</item>
+        <item>Technical English</item>
+        <item>Physics for Electronics and Information Science</item>
+        <item>Engineering Graphics</item>
+        <item>Foundational English</item>
+       <item>Engineering Practices Laboratory</item>
+        <item>Mathematics - I</item>
+        <item>Information Technology Essentials and Data Structures Laboratory</item>
+        <item>Engineering Practices Laboratory</item>
+        <item> Engineering Physics </item>
+        <item> Engineering Chemistry</item>
+        <item> Computing Techniques</item>
+        <item>Basic Sciences Laboratory</item>
+        <item> Computer Practices Laboratory</item>
+        <item> Probability and Queueing Theory</item>
+        <item> Environmental Science and Engineering</item>
+        <item>  Digital Principles and Design</item>
+        <item> Database Systems</item>
+        <item> Object Oriented Programming and Advanced Data Structures</item>
+        <item> Digital Communication</item>
+        <item> Digital and Database Systems Laboratory</item>
+        <item> Object Oriented Programming and Advanced Data Structures Laboratory</item>
+        <item>  Discrete Mathematics</item>
+        <item>   Algorithmics</item>
+        <item>   Operating Systems</item>
+        <item>  Software Engineering</item>
+        <item>  Computer Architecture</item>
+        <item>  Web Technology</item>
+        <item>  Web Technology Laboratory</item>
+        <item> Operating Systems Laboratory</item>
+        <item> Embedded Systems</item>
+        <item> Unix Internals</item>
+        <item> Computer Networks</item>
+        <item> Compiler Engineering</item>
+        <item> Computer Networks Laboratory</item>
+        <item> Embedded Systems Laboratory</item>
+        <item> Socially Relevant Project</item>
+        <item> Integrated Programming</item>
+        <item> Information Security</item>
+        <item> Parallel and Distributed Systems</item>
+        <item> Mobile Computing</item>
+        <item> Integrated Programming Laboratory</item>
+        <item> Information Security and Mobile Computing Laboratory</item>
+        <item>Creative and Innovative Project</item>
+        <item>  Computer Graphics and Multimedia</item>
+        <item>Data Analytics</item>
+        <item>  Principles of Human Computer Interaction</item>
+        <item> Knowledge Engineering and Intelligent Systems</item>
+        <item>Graphics and Multimedia Laboratory</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004267244418",
+    "firebase_url": "https://cgpacalculator-ab406.firebaseio.com",
+    "project_id": "cgpacalculator-ab406",
+    "storage_bucket": "cgpacalculator-ab406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004267244418:android:f8444909ac161349",
+        "android_client_info": {
+          "package_name": "com.example.cgpacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004267244418-ms911v6osnod5etlklj88vj9gtpkc058.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cgpacalculator",
+            "certificate_hash": "564af950f4d45834c2ddb70482aef1d452bc29bb"
+          }
+        },
+        {
+          "client_id": "1004267244418-689vahjpisrg2lbc3jb4f20h7rp52u50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUoHvUF8_xPTRwPVIrWfPhvwDrpCiKYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004267244418-689vahjpisrg2lbc3jb4f20h7rp52u50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
